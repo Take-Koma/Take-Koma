@@ -1,4 +1,10 @@
-## Hi there 👋  🇯🇵
+## Hi there 👋  🇯🇵🇯🇵🇯🇵
+I work as a machine operator at a factory in Japan.←Google翻訳です。
+
+残念ながら英語が話せません。悲しい。
+
+- BeckhoffのTwinCATを使って、Structured Textの勉強中です。
+- 三菱のGX Worksでラダーも勉強中です。
 
 <!--
 **Take-Koma/Take-Koma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
