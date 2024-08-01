@@ -1,7 +1,7 @@
 ## Hi there 👋  🇯🇵🇯🇵🇯🇵
 I work as a machine operator at a factory in Japan.←Google翻訳です。
 
-残念ながら英語が話せません。悲しい。
+残念ながら英語が使えません。悲しい。
 
 - BeckhoffのTwinCATを使って、Structured Textの勉強中です。
 - 三菱のGX Worksでラダーも勉強中です。
