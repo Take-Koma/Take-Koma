@@ -2,6 +2,7 @@
 I work as a machine operator at a factory in Japan.←Google翻訳です。
 
 日本の工場で機械の運転員をしてます。
+
 残念ながら英語が使えません。悲しい。
 
 - BeckhoffのTwinCATを使って、Structured Textの勉強中です。７日間のテストライセンス有難い！Beckhoffに感謝！！
