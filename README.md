@@ -1,12 +1,14 @@
 ## Hi there 👋  🇯🇵🇯🇵🇯🇵
-I work as a machine operator at a factory in Japan.←Google翻訳です。
-
-日本の工場で機械の運転員をしてます。
-
+I work as a machine operator at a factory in Japan.←Google翻訳です。  
+日本の工場で機械の運転員をしてます。  
 残念ながら英語が使えません。悲しい。
 
-- BeckhoffのTwinCATを使って、Structured Textの勉強中です。７日間のテストライセンス有難い！Beckhoffに感謝！！
-- 三菱のGX Worksでラダーも勉強中です。
+BeckhoffのTwinCATを使って、Structured Textの勉強中です。７日間のテストライセンス有難い！Beckhoffに感謝！！  
+三菱のGX Worksでラダーも勉強中です。
+
+TwinCATでのワンポイント  
+Visual StudioでSafetyのプロジェクトを扱うときには「Modeling SDK」が必要になります。  
+自分が躓いたのでメモ。常識なのかな？
 
 <!--
 **Take-Koma/Take-Koma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
