@@ -7,8 +7,8 @@ BeckhoffのTwinCATを使って、Structured Textの勉強中です。７日間�
 三菱のGX Worksでラダーも勉強中です。
 
 TwinCATでのワンポイント  
-Visual StudioでSafetyのプロジェクトを扱うときには「Modeling SDK」が必要になります。  
-自分が躓いたのでメモ。常識なのかな？
+Visual StudioでSafetyのプロジェクトを扱うときには「Modeling SDK」が必要にでした。 
+自分が躓いたのでメモ。
 
 <!--
 **Take-Koma/Take-Koma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
