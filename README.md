@@ -7,7 +7,7 @@ BeckhoffのTwinCATを使って、Structured Textの勉強中です。７日間�
 三菱のGX Worksでラダーも勉強中です。
 
 TwinCATでのワンポイント  
-Visual StudioでSafetyのプロジェクトを扱うときには「Modeling SDK」が必要にでした。 
+Visual StudioでSafetyのプロジェクトを扱うときには「Modeling SDK」が必要になりました。 
 自分が躓いたのでメモ。
 
 <!--
