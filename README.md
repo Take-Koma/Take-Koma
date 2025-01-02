@@ -7,7 +7,12 @@ BeckhoffのTwinCATを使って、Structured Textの勉強中です。７日間�
 三菱のGX Worksでラダーも勉強中です。
 
 TwinCATでのワンポイント  
-Visual StudioでSafetyのプロジェクトを扱うときには「Modeling SDK」が必要になりました。 
+・Visual StudioでSafetyのプロジェクトを扱うときには「Modeling SDK」が必要になりました。  
+自分が躓いたのでメモ。
+
+TwinCAT 3.1 Build 4026にアップデート後のワンポイント  
+・Visual StudioでScope Viewのプロジェクトを扱うときには「TwinCAT 3 Bode Plot」「TwinCAT 3 Filter Designer」が必要になりました。  
+・Build 4026からは、TF6250のTwinCAT Modbus TCP Configuratorを「管理者として実行」で実行しないと設定の変更が出来なくなりました。  
 自分が躓いたのでメモ。
 
 <!--
