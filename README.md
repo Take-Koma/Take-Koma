@@ -11,8 +11,8 @@ TwinCATでのワンポイント
 自分が躓いたのでメモ。
 
 TwinCAT 3.1 Build 4026にアップデート後のワンポイント  
-・IO-LinkのIODDファイルをボタン"Import Devicedescription“からインポートする際にVisual Studioを管理者で実行してないと出来ませんでした。  
-・Build 4026からは、TF6250のTwinCAT Modbus TCP Configuratorを「管理者として実行」で実行しないと設定の変更が出来なくなりました。  
+・IO-LinkのIODDファイルを IO link configuration toolのボタン"Import Devicedescription“からインポートする際にVisual Studioを管理者で実行してないと出来ませんでした。  
+・TF6250のTwinCAT Modbus TCP Configuratorを「管理者として実行」で実行しないと設定の変更が出来ません。  
 自分が躓いたのでメモ。
 
 <!--
